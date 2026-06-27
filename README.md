@@ -10,11 +10,11 @@
 
 
 <p align="center">
-<img src="star.png" height="30"> pre-final year cs @ srmist, chennai
+<img src="star.png" height="25"> pre-final year cs @ srmist, chennai
 <br><br>
-<img src="computer.png" height="30"> research intern @ iit kharagpur
+<img src="computer.png" height="25"> research intern @ iit kharagpur
 <br><br>
-<img src="heart.png" height="30"> lately i've been building
+<img src="heart.png" height="25"> lately i've been building
 <br><br>
 ai systems • llms • agentic rag
 <br>
