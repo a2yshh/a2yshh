@@ -1,4 +1,7 @@
 ## ⋆｡‧˚ʚ🍓ɞ˚‧｡⋆
+<p align="center">
+  <img src="blinkiesCafe-QM.gif" alt="welcome to my github">
+</p>
 ## About me :
 🔭 Currently exploring machine learning and deep learning.  
 📚 Pursuing B.Tech in Computer Science & Engineering at SRMIST, Chennai.  
