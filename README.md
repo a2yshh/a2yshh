@@ -22,8 +22,6 @@ ai systems • llms • agentic rag
 networking • ml engineering
 </p>
 
-<br><br>
-
 <p align="center">
   <img src="blinkiesCafe-dR.gif" width="320" alt="things i use">
 </p>
