@@ -2,7 +2,7 @@
 <p align="center">
   <img src="blinkiesCafe-QM.gif" alt="welcome to my github">
 </p>
-## About me :
+### About me :
 🔭 Currently exploring machine learning and deep learning.  
 📚 Pursuing B.Tech in Computer Science & Engineering at SRMIST, Chennai.  
 💡 Interested in projects related to AI, data science, and real-world applications of ML. 
