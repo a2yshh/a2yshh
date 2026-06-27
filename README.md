@@ -4,7 +4,7 @@
 </p>
 
 
-### ♡ about me ♡
+### <img src="computer.png"> about me ♡
 
 ୨ৎ cs pre-final year @ srmist, chennai
 
