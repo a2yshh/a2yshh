@@ -14,7 +14,7 @@
 <br><br>
 <img src="computer.png" height="25"> research intern @ iit kharagpur
 <br><br>
-<img src="heart.png" height="25"> lately i've been building
+<img src="games.png" height="25"> lately i've been building
 <br><br>
 ai systems • llms • agentic rag
 <br>
