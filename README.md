@@ -24,7 +24,7 @@
 ୨ৎ linux enthusiast • networking • deep learning
 
 </p>
-<img src="blinkiesCafe-PX.gif" width="320">
+<img src="blinkiesCafe-dR.gif" width="320">
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,linux,docker,git,react,nextjs,fastapi,mongodb,redis,postgres,pytorch,tensorflow"/>
 </p>
