@@ -9,13 +9,23 @@
   about me
   <img src="heart.png" width="22" valign="middle">
 </h3>
+<p align="center">
 
-୨ৎ cs pre-final year @ srmist, chennai
+♡ pre-final year cs @ srmist, chennai ♡
 
-୨ৎ currently building things with ai, ml & systems
+<br>
 
-୨ৎ learning deep learning, networking & low-level programming
+୨ৎ research intern @ iit kharagpur
 
+<br>
+
+୨ৎ building llms • agentic rag • ai systems
+
+<br>
+
+୨ৎ linux enthusiast • networking • deep learning
+
+</p>
 ## <img src="blinkiesCafe-PX.gif" width="320">
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
