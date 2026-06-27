@@ -3,27 +3,22 @@
   <img src="blinkiesCafe-QM.gif" alt="welcome to my github">
 </p>
 
-
-<h3 align="left">
-  <img src="blinkiesCafe-hC.gif" width="330">
-</h3>
 <p align="center">
+  <img src="blinkiesCafe-hC.gif" width="330" alt="about me">
+</p>
+<p align="center">
+୨ৎ pre-final year cs @ srmist, chennai 
 
-♡ pre-final year cs @ srmist, chennai ♡
-
-<br>
+<br><br>
 
 ୨ৎ research intern @ iit kharagpur
 
-<br>
+<br><br>
 
-୨ৎ building llms • agentic rag • ai systems
-
-<br>
-
-୨ৎ linux enthusiast • networking • deep learning
+୨ৎ working with ai systems • agentic rag • llms • networking
 
 </p>
+
 <img src="blinkiesCafe-dR.gif" width="320">
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,linux,docker,git,react,nextjs,fastapi,mongodb,redis,postgres,pytorch,tensorflow"/>
