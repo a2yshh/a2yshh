@@ -10,9 +10,9 @@
 
 
 <p align="center">
-<img src="star.png" height="20"> pre-final year cs @ srmist, chennai
+<img src="star.png" height="22"> pre-final year cs @ srmist, chennai
 <br><br>
-💻 research intern @ iit kharagpur
+<img src="computer.png" height="22"> research intern @ iit kharagpur
 <br><br>
 ✨ lately i've been building
 <br><br>
