@@ -10,6 +10,7 @@
   <img src="blinkiesCafe-hC.gif" width="330" alt="about me">
 </p>
 
+
 <p align="center">
 ୨ৎ pre-final year cs @ srmist, chennai
 <br><br>
@@ -26,7 +27,9 @@ networking • ml engineering
 <p align="center">
   <img src="blinkiesCafe-dR.gif" width="320" alt="things i use">
 </p>
+
 <br>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,linux,docker,git,react,nextjs,fastapi,mongodb,redis,postgres,pytorch,tensorflow" />
 </p>
