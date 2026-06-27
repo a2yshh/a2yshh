@@ -10,7 +10,7 @@
 
 
 <p align="center">
-🎀 pre-final year cs @ srmist, chennai
+<img src="star.png" height="20"> pre-final year cs @ srmist, chennai
 <br><br>
 💻 research intern @ iit kharagpur
 <br><br>
