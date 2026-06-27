@@ -10,15 +10,25 @@
 
 
 <p align="center">
-୨ৎ pre-final year cs @ srmist, chennai
+
+🎀 pre-final year cs @ srmist, chennai
+
 <br><br>
-୨ৎ research intern @ iit kharagpur
+
+💻 research intern @ iit kharagpur
+
 <br><br>
-୨ৎ lately i've been building
+
+✨ lately i've been building
+
 <br><br>
+
 ai systems • llms • agentic rag
+
 <br>
+
 networking • ml engineering
+
 </p>
 
 <br>
