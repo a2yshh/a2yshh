@@ -5,9 +5,7 @@
 
 
 <h3 align="left">
-  <img src="heart.png" width="22" valign="middle">
-  about me
-  <img src="heart.png" width="22" valign="middle">
+  <img src="blinkiesCafe-hC.gif" width="330">
 </h3>
 <p align="center">
 
