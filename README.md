@@ -1,4 +1,4 @@
-<p align="center"> ⋆｡‧˚ʚ🍓ɞ˚‧｡⋆ </p>
+<h3><p align="center"> ⋆｡‧˚ʚ🍓ɞ˚‧｡⋆ </p></h3>
 
 <p align="center">
   <img src="blinkiesCafe-QM.gif" alt="welcome to my github">
