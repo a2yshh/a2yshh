@@ -3,10 +3,14 @@
   <img src="blinkiesCafe-QM.gif" alt="welcome to my github">
 </p>
 
-## About me :
-🔭 Currently exploring machine learning and deep learning.  
-📚 Pursuing B.Tech in Computer Science & Engineering at SRMIST, Chennai.  
-💡 Interested in projects related to AI, data science, and real-world applications of ML. 
+
+### ♡ about me ♡
+
+୨ৎ cs pre-final year @ srmist, chennai
+
+୨ৎ currently building things with ai, ml & systems
+
+୨ৎ learning deep learning, networking & low-level programming
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
