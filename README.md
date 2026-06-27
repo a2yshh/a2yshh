@@ -1,4 +1,3 @@
-```html
 ## ⋆｡‧˚ʚ🍓ɞ˚‧｡⋆
 
 <p align="center">
@@ -21,23 +20,25 @@
 
 <br><br>
 
-୨ৎ working with
+୨ৎ currently building with
 
 <br>
 
-ai systems • agentic rag • llms
+ai systems · llms · agentic rag
 
 <br>
 
-networking • linux • deep learning
+networking · ml engineering
 
 </p>
 
-<br>
+<br><br>
 
 <p align="center">
   <img src="blinkiesCafe-dR.gif" width="320" alt="things i use">
 </p>
+
+<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,linux,docker,git,react,nextjs,fastapi,mongodb,redis,postgres,pytorch,tensorflow" />
