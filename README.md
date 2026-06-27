@@ -5,9 +5,9 @@
 
 
 <h3 align="left">
-  <img src="computer.png" width="22" valign="middle">
+  <img src="heart.png" width="22" valign="middle">
   about me
-  <img src="computer.png" width="22" valign="middle">
+  <img src="heart.png" width="22" valign="middle">
 </h3>
 
 ୨ৎ cs pre-final year @ srmist, chennai
