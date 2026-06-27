@@ -28,7 +28,6 @@ networking • ml engineering
 </p>
 
 <br>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,linux,docker,git,react,nextjs,fastapi,mongodb,redis,postgres,pytorch,tensorflow" />
 </p>
