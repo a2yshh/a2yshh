@@ -1,10 +1,8 @@
-<h3><p align="center"> ⋆｡‧˚ʚ🍓ɞ˚‧｡⋆ </p></h3>
-
 <p align="center">
   <img src="blinkiesCafe-QM.gif" alt="welcome to my github">
 </p>
 
-<h3><p align="center">  ₊˚⊹♡ ayush ♡⊹˚₊ </p></h3>
+<h3><p align="center"> ⋆｡‧˚ʚ ayush ɞ˚‧｡⋆ </p></h3>
 <br>
 <p align="center">
   <img src="blinkiesCafe-hC.gif" width="330" alt="about me">
