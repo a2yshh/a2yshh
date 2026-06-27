@@ -16,7 +16,7 @@
 
 ୨ৎ learning deep learning, networking & low-level programming
 
-## ✦ things i use ✦
+## <img src="blinkiesCafe-jO.gif">
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,linux,docker,git,fastapi,react,nextjs,redis,mongodb,postgres,pytorch,tensorflow&perline=7" />
 </p>
