@@ -22,7 +22,7 @@ ai systems • llms • agentic rag
 <br>
 networking • ml engineering
 </p>
-
+<br>
 
 <p align="center">
   <img src="blinkiesCafe-dR.gif" width="320" alt="things i use">
@@ -33,4 +33,4 @@ networking • ml engineering
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,linux,docker,git,react,nextjs,fastapi,mongodb,redis,postgres,pytorch,tensorflow" />
 </p>
-```
+
