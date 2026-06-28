@@ -32,3 +32,21 @@ networking • ml engineering
   <img src="https://skillicons.dev/icons?i=python,cpp,linux,docker,git,react,nextjs,fastapi,mongodb,redis,postgres,pytorch,tensorflow" />
 </p>
 
+<br>
+
+<p align="center">
+  <img src="blinkiesCafe-Gp.gif" width="320" alt="my stats . . .">
+</p>
+  
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=a2yshh&show_icons=true&theme=omni&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a2yshh&layout=compact&theme=omni&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=a2yshh&theme=omni&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a2yshh&theme=omni"/>
+</p>
