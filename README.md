@@ -1,7 +1,7 @@
 <p align="center">
   <img src="blinkiesCafe-QM.gif" alt="welcome to my github">
 </p>
-
+ 
 <h1><p align="center"> ⋆｡‧˚ʚ ayush ɞ˚‧｡⋆ </p></h1>
 <br>
 <p align="center">
